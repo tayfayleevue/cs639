@@ -1,0 +1,21 @@
+_AIRBYTE_RAW_ID,_AIRBYTE_EXTRACTED_AT,_AIRBYTE_META,_AIRBYTE_GENERATION_ID,ZONE,BOROUGH,LOCATIONID,SERVICE_ZONE
+97fd30ff-54a1-4f77-bf57-ef8fb8365e22,2024-11-14 04:28:58.000 Z,"{
+  ""changes"": [],
+  ""sync_id"": 21943743
+}",2,Newark Airport,EWR,1,EWR
+5122ca04-e8b0-43f1-8d01-86097bf46321,2024-11-14 04:28:58.000 Z,"{
+  ""changes"": [],
+  ""sync_id"": 21943743
+}",2,Jamaica Bay,Queens,2,Boro Zone
+238eeda0-7741-4837-9c39-77004fb3fc8a,2024-11-14 04:28:58.000 Z,"{
+  ""changes"": [],
+  ""sync_id"": 21943743
+}",2,Allerton/Pelham Gardens,Bronx,3,Boro Zone
+2a1afe8b-7168-4e5c-a850-5d82488003e3,2024-11-14 04:28:58.000 Z,"{
+  ""changes"": [],
+  ""sync_id"": 21943743
+}",2,Alphabet City,Manhattan,4,Yellow Zone
+4810a76c-2a4b-441a-a52b-11b3dbdf0773,2024-11-14 04:28:58.000 Z,"{
+  ""changes"": [],
+  ""sync_id"": 21943743
+}",2,Arden Heights,Staten Island,5,Boro Zone
